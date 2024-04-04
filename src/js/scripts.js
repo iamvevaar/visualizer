@@ -49,8 +49,8 @@ camera.lookAt(0, 0, 0);
 const uniforms = {
 	u_time: {type: 'f', value: 1.0},
 	u_frequency: {type: 'f', value: 0.0},
-	u_red: {type: 'f', value: 1.0},
-	u_green: {type: 'f', value: 1.0},
+	u_red: {type: 'f', value: 0.3},
+	u_green: {type: 'f', value: 0.4},
 	u_blue: {type: 'f', value: 1.0}
 }
 
@@ -68,13 +68,19 @@ mesh.material.wireframe = true;
 const listener = new THREE.AudioListener();
 camera.add(listener);
 
+
+
 const sound = new THREE.Audio(listener);
 
 const audioLoader = new THREE.AudioLoader();
 audioLoader.load('./assets/Beats.mp3', function(buffer) {
 	sound.setBuffer(buffer);
-	window.addEventListener('click', function() {
-		sound.play();
+	document.addEventListener('click', function() {
+		if (sound.isPlaying) {
+			sound.pause(); // Pause the audio if it's playing
+		} else {
+			sound.play(); // Resume playing the audio if it's paused
+		}
 	});
 });
 

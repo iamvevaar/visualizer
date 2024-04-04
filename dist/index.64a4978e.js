@@ -630,11 +630,11 @@ const uniforms = {
     },
     u_red: {
         type: "f",
-        value: 1.0
+        value: 0.3
     },
     u_green: {
         type: "f",
-        value: 1.0
+        value: 0.4
     },
     u_blue: {
         type: "f",
@@ -656,8 +656,9 @@ const sound = new _three.Audio(listener);
 const audioLoader = new _three.AudioLoader();
 audioLoader.load("./assets/Beats.mp3", function(buffer) {
     sound.setBuffer(buffer);
-    window.addEventListener("click", function() {
-        sound.play();
+    document.addEventListener("click", function() {
+        if (sound.isPlaying) sound.pause(); // Pause the audio if it's playing
+        else sound.play(); // Resume playing the audio if it's paused
     });
 });
 const analyser = new _three.AudioAnalyser(sound, 32);

@@ -11,7 +11,7 @@
 49D:\FrontEnd\visualizer\audiovisualizer\.gitignore133565314157230052 0
 87D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\examples\jsm\renderers\common133565317357246108 1
 101D:\FrontEnd\visualizer\audiovisualizer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133565317261432159 0
-43D:\FrontEnd\visualizer\audiovisualizer\dist133565345208975700 1
+43D:\FrontEnd\visualizer\audiovisualizer\dist133566904936060634 1
 77D:\FrontEnd\visualizer\audiovisualizer\node_modules\posthtml-parser\readme.md133565317231594350 0
 83D:\FrontEnd\visualizer\audiovisualizer\node_modules\caniuse-lite\data\regions\MV.js133565317335469787 0
 72D:\FrontEnd\visualizer\audiovisualizer\node_modules\@parcel\rust\LICENSE133565317208662835 0
@@ -93,7 +93,7 @@
 93D:\FrontEnd\visualizer\audiovisualizer\node_modules\source-map-js\lib\source-map-generator.js133565317235315352 0
 124D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\src\renderers\shaders\ShaderChunk\clipping_planes_fragment.glsl.js133565317282008727 0
 112D:\FrontEnd\visualizer\audiovisualizer\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133565317283844788 0
-56D:\FrontEnd\visualizer\audiovisualizer\src\js\scripts.js133565345191866155 0
+56D:\FrontEnd\visualizer\audiovisualizer\src\js\scripts.js133566904926480185 0
 115D:\FrontEnd\visualizer\audiovisualizer\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\general.d.ts133565317246635640 0
 100D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\src\renderers\webgl\WebGLBufferRenderer.js133565317358572463 0
 56D:\FrontEnd\visualizer\audiovisualizer\node_modules\.bin133565317368919040 1
@@ -4244,7 +4244,7 @@
 92D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\css-tree\cjs\convertor133565317257210400 1
 73D:\FrontEnd\visualizer\audiovisualizer\node_modules\css-tree\dist\data.js133565317279844909 0
 100D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\css-tree\cjs\definition-syntax133565317277575223 1
-61D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js133565345208574072 0
+61D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js133566904935982086 0
 92D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\css-tree\cjs\generator133565317273113318 1
 94D:\FrontEnd\visualizer\audiovisualizer\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133565317312676280 0
 100D:\FrontEnd\visualizer\audiovisualizer\node_modules\css-select\node_modules\domhandler\lib\node.d.ts133565317240924788 0
@@ -6949,5 +6949,5 @@
 67D:\FrontEnd\visualizer\audiovisualizer\node_modules\.bin\semver.ps1133565317368869879 0
 50D:\FrontEnd\visualizer\audiovisualizer\dist\assets133565317526280719 1
 60D:\FrontEnd\visualizer\audiovisualizer\dist\assets\Beats.mp3133253230214834025 0
-54D:\FrontEnd\visualizer\audiovisualizer\dist\index.html133565345208587510 0
-65D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js.map133565345208920507 0
+54D:\FrontEnd\visualizer\audiovisualizer\dist\index.html133566904935970839 0
+65D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js.map133566904936048384 0
