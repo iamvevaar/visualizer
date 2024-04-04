@@ -2,16 +2,16 @@
 103D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\src\renderers\shaders\ShaderLib\depth.glsl.js133565317286601733 0
 91D:\FrontEnd\visualizer\audiovisualizer\node_modules\css-tree\lib\definition-syntax\parse.js133565317283970227 0
 115D:\FrontEnd\visualizer\audiovisualizer\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json133565317283403198 0
-51D:\FrontEnd\visualizer\audiovisualizer\package.json133565314157239147 0
+51D:\FrontEnd\visualizer\audiovisualizer\package.json133567229513323619 0
 60D:\FrontEnd\visualizer\audiovisualizer\node_modules\mdn-data133565317246991173 1
 72D:\FrontEnd\visualizer\audiovisualizer\node_modules\@swc\core\binding.js133565317216640213 0
 88D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\src\loaders\AnimationLoader.js133565317260662132 0
 83D:\FrontEnd\visualizer\audiovisualizer\node_modules\caniuse-lite\data\regions\DO.js133565317286338854 0
 96D:\FrontEnd\visualizer\audiovisualizer\node_modules\@swc\helpers\_\_async_generator\package.json133565317282015926 0
-49D:\FrontEnd\visualizer\audiovisualizer\.gitignore133565314157230052 0
+49D:\FrontEnd\visualizer\audiovisualizer\.gitignore133566906863722738 0
 87D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\examples\jsm\renderers\common133565317357246108 1
 101D:\FrontEnd\visualizer\audiovisualizer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133565317261432159 0
-43D:\FrontEnd\visualizer\audiovisualizer\dist133566904936060634 1
+43D:\FrontEnd\visualizer\audiovisualizer\dist133567229792406846 1
 77D:\FrontEnd\visualizer\audiovisualizer\node_modules\posthtml-parser\readme.md133565317231594350 0
 83D:\FrontEnd\visualizer\audiovisualizer\node_modules\caniuse-lite\data\regions\MV.js133565317335469787 0
 72D:\FrontEnd\visualizer\audiovisualizer\node_modules\@parcel\rust\LICENSE133565317208662835 0
@@ -79,7 +79,7 @@
 98D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\mdn-data\css\properties.json133565317242686657 0
 86D:\FrontEnd\visualizer\audiovisualizer\node_modules\dat.gui\src\dat\dom\CenteredDiv.js133565317238693965 0
 87D:\FrontEnd\visualizer\audiovisualizer\node_modules\css-select\lib\esm\pseudo-selectors133565317263467404 1
-53D:\FrontEnd\visualizer\audiovisualizer\src\index.html133565314157252587 0
+53D:\FrontEnd\visualizer\audiovisualizer\src\index.html133567229784137202 0
 61D:\FrontEnd\visualizer\audiovisualizer\node_modules\lmdb\util133565317278118011 1
 121D:\FrontEnd\visualizer\audiovisualizer\node_modules\three\src\renderers\shaders\ShaderChunk\normal_fragment_begin.glsl.js133565317344357138 0
 74D:\FrontEnd\visualizer\audiovisualizer\node_modules\picomatch\lib\utils.js133565317232643942 0
@@ -4244,7 +4244,7 @@
 92D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\css-tree\cjs\convertor133565317257210400 1
 73D:\FrontEnd\visualizer\audiovisualizer\node_modules\css-tree\dist\data.js133565317279844909 0
 100D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\css-tree\cjs\definition-syntax133565317277575223 1
-61D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js133566904935982086 0
+61D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js133567229792308577 0
 92D:\FrontEnd\visualizer\audiovisualizer\node_modules\csso\node_modules\css-tree\cjs\generator133565317273113318 1
 94D:\FrontEnd\visualizer\audiovisualizer\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133565317312676280 0
 100D:\FrontEnd\visualizer\audiovisualizer\node_modules\css-select\node_modules\domhandler\lib\node.d.ts133565317240924788 0
@@ -6949,5 +6949,5 @@
 67D:\FrontEnd\visualizer\audiovisualizer\node_modules\.bin\semver.ps1133565317368869879 0
 50D:\FrontEnd\visualizer\audiovisualizer\dist\assets133565317526280719 1
 60D:\FrontEnd\visualizer\audiovisualizer\dist\assets\Beats.mp3133253230214834025 0
-54D:\FrontEnd\visualizer\audiovisualizer\dist\index.html133566904935970839 0
-65D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js.map133566904936048384 0
+54D:\FrontEnd\visualizer\audiovisualizer\dist\index.html133567229792299460 0
+65D:\FrontEnd\visualizer\audiovisualizer\dist\index.64a4978e.js.map133567229792396786 0
